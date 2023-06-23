@@ -29,9 +29,9 @@ public class Main {
 
         System.out.println("-------------------------");
         int inc = 0;
-            do {
-                System.out.println("Hello world");
-                inc++;
-            } while(inc < 5);
+        do {
+            System.out.println("Hello world");
+            inc++;
+        } while (inc < 5);
     }
 }
