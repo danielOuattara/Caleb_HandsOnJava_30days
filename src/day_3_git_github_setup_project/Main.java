@@ -1,4 +1,4 @@
-package day_3;
+package day_3_git_github_setup_project;
 
 public class Main {
     public static void main(String[] args) {

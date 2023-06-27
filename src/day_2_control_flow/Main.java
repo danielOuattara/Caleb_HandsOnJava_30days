@@ -1,4 +1,4 @@
-package day_2;
+package day_2_control_flow;
 
 import java.util.Scanner;
 
