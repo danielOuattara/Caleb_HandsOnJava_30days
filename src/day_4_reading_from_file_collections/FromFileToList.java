@@ -31,8 +31,7 @@ public class FromFileToList {
             scanner_file.close();
         } catch (IOException e) {
             System.out.println("An error occurred.");
-            System.out.println(e);
-            // e.printStackTrace();
+             e.printStackTrace();
         }
         System.out.println("---------------------------");
 

@@ -9,8 +9,8 @@ public class ToArrays {
         /* Collections : Arrays
          * ===================== */
 
-        int[] grades;  // OK
-        int scores[];  // OK , C-language legacy
+        // int[] grades;  // OK
+        // int scores[];  // OK , C-language legacy
 
         System.out.print("Enter your array size : ");
         Scanner scanner = new Scanner(System.in);
